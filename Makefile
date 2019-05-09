@@ -36,7 +36,7 @@ VER          = 2.00.5
 NAME         = Liberation
 VARIANTS     = \
     Mono-Regular       Mono-Bold        Mono-Italic       Mono-BoldItalic       \
-    Sans-Regular       Sans-Bold        Sans-Italic       Sans-BoldItalic       \
+    Sans-Regular       Sans-Bold        Sans-Italic       Sans-BoldItalic Sans-BoldPunched       \
     Serif-Regular      Serif-Bold       Serif-Italic      Serif-BoldItalic      
 
 DISTPREFIX     := liberation-fonts-$(VER)
